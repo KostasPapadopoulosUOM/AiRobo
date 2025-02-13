@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>P:\ChatGPT-Proxy\ChatGPT-Proxy\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-04-02T12:25:41.1366945Z;True|2024-04-02T15:13:42.3908123+03:00;True|2024-04-02T14:12:16.2636907+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

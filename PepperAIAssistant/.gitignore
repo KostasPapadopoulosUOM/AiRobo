@@ -1,0 +1,5 @@
+*.pyc
+*.v2
+/Proxy/ChatGPT-Proxy/bin
+/Proxy/ChatGPT-Proxy/obj
+/Proxy/.vs
